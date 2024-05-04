@@ -144,14 +144,11 @@ p{
 }
 
 div{
-    padding: 30px 60px;
-    text-align: center;
-    margin-top: 100px;
 
     .pageContent{
-        text-opacity: 2;
+        text-opacity:2;
         padding: 60px 60px;
-        align:center;
+        text-align: center;
         margin-top: 100px;
     }
 }
