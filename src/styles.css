@@ -142,3 +142,16 @@ footer{
 p{
   font-size: 1em;
 }
+
+div{
+    padding: 30px 60px;
+    text-align: center;
+    margin-top: 100px;
+
+    .pageContent{
+        text-opacity: 2;
+        padding: 60px 60px;
+        align:center;
+        margin-top: 100px;
+    }
+}
